@@ -62,19 +62,19 @@ Landlocked smuggler's paradise Paraguay is the epitome of [the Bazaar and its vi
 
 Its current president -- beneficiary of the same sort of Paraguayan coup that just removed Rousseff here, only more of a constitutional blitzkrieg ---is the owner of [Tabacalera Del Este S.A.](http://www.tabesa.com.py/en/productos.html). 
 
-The company makes the Eight and Kentucky brands of cigarettes, among others -- sold by the truckload here in São Paulo with no revenue stamps whatsoever, and with only the very occasional seizure of a few hundred cartons, if that.
+The company makes the Eight and Kentucky brands of cigarettes, among others -- sold by the truckload here in São Paulo with no revenue stamps whatsoever, and with only the very occasional seizure of a few hundred cartons, if that. (A truckload of Eights, above).
 
-The Eight brand costs one-third what domestic brands do and is considered chic and high-quality judging from the bumming habits of the folks from the cancer ward. 
+The Eight brand costs one-quarter to one-third of what domestic brands do and is considered chic and high-quality, judging from the bumming habits of the folks from the cancer ward. 
 
-Honestly, I could not smoke if it not for my Paraguayan Marlboro Man who meets me at that certain  square by that certain landmark and hands it over in shopping bags. He even runs me a tab.
+Honestly, I could not smoke at all if it not for my Paraguayan Marlboro Man who meets me at that certain square by that certain landmark and hands it over in shopping bags. He even runs me a tab. Good guy.
 
-I was going to restart my [Sousaphone](http://tupiwire.wordpress.com) with the subtitle »Confessions of  Paraguayan Marlboro Man». 
+I was thinking of restarting my [Sousaphone](http://tupiwire.wordpress.com) blog with the subtitle »Confessions of  Paraguayan Marlboro Man». 
 
 But I built it with [Yellow](https://datenstrom.se/yellow/) and `php yellow.php build site` does not work for me. Some other time.
 
 #### Adding Art
 
-Bruegel the Elder's *Tower of Babel* works very well as a background image and is *a propos*. 
+Bruegel the Elder's *Tower of Babel* works very well as a background image for this site and is *a propos*. 
 
 This post written with [gedit](https://en.wikipedia.org/wiki/Gedit) rather than, say, [remarkable](https://remarkableapp.github.io/). 
 
