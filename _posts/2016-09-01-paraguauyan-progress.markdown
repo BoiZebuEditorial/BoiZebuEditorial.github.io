@@ -7,11 +7,11 @@ tags: [jekyll, static site generator, theme, responsive, design, github, brasil,
 
 ![ghostwriter4hugo](https://tupiwire.files.wordpress.com/2016/09/neuzaghostwritersm.png)
 
-This is not the simple [ghostwriter theme for Hugo](http://themes.gohugo.io/ghostwriter/) (above) that I really wanted for my regular progress reports, but [Hugo deployment](https://gohugo.io/tutorials/automated-deployments/) on Github and [others](https://gohugo.io/tutorials/hosting-on-bitbucket/) with its many options and approaches was making me crazy. 
+[This](http://jekyllthemes.org/themes/jekyll-uno/) is not the simple [ghostwriter theme for Hugo](http://themes.gohugo.io/ghostwriter/) (above) that I really wanted for my regular progress reports, but [Hugo deployment](https://gohugo.io/tutorials/automated-deployments/) on Github and [others](https://gohugo.io/tutorials/hosting-on-bitbucket/) with its many options and approaches was making me crazy. 
 
 Not even looking into [the Heroku option](https://github.com/roperzh/heroku-buildpack-hugo) -- or other automated solutions -- helped. 
 
-Meanwhile, they say in this freshly cloned Jekyll theme, you can look in your  `_posts` directory and not despair, knowing that so long as `index.html` is written to the root of the server and not hidden in a  `public` or other folder, you will enjoy full freedom of Github speech ... as in freedom of beer.  
+Meanwhile, they say that in this [freshly cloned Jekyll theme](http://jekyllthemes.org/themes/jekyll-uno/) -- Jekyll Uno based on a theme for Ghost -- you can look in your  `_posts` directory and not despair, knowing that so long as `index.html` is written to the root of the server and not hidden in a  `public` or other folder, you will enjoy full freedom of Github speech ... as in freedom of beer.  
 
 #### Basic Jekyll
 
@@ -53,16 +53,20 @@ Fanned by a sensationalist yellow press and media, concentrated in the hands of 
 2. The [Landless Workers Movement](http://www.mst.org.br/) wants to barbecue your forcibly aborted white Catholic babies!
 
 And there you have it: Sambodia.
+
 #### And Why Paraguay? 
+
 Landlocked smuggler's paradise Paraguay is the epitome of [the Bazaar and its victory over the Cathedral](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar).
 
 ![](https://tupiwire.files.wordpress.com/2016/07/yellowviewscaled.png)
 
-Its current president -- beneficiary of the same sort of Paraguayan coup that just removed Rousseff here, only more of a constitutional blitzkrieg ---is the owner of [Tabacalera Del Este S.A.](Tabacalera Del Este S.A), maker of the Eight brand of cigarettes -- sold by the truckload here in São Paulo with no revenue stamps whatsoever,  and with only the very occasional seizure of a few hundred cartons. 
+Its current president -- beneficiary of the same sort of Paraguayan coup that just removed Rousseff here, only more of a constitutional blitzkrieg ---is the owner of [Tabacalera Del Este S.A.](http://www.tabesa.com.py/en/productos.html). 
 
-The Eight brand costs one-third what domestic brands do and is considered chic and high-quality. 
+The company makes the Eight and Kentucky brands of cigarettes, among others -- sold by the truckload here in São Paulo with no revenue stamps whatsoever, and with only the very occasional seizure of a few hundred cartons, if that.
 
-Honestly, I could not smoke if it not for my Paraguayan Marlboro Man who meets me at that certain  square by that certain landmark and hands it over in shopping bags. He even runs me a tab, something that the padaria would never do.
+The Eight brand costs one-third what domestic brands do and is considered chic and high-quality judging from the bumming habits of the folks from the cancer ward. 
+
+Honestly, I could not smoke if it not for my Paraguayan Marlboro Man who meets me at that certain  square by that certain landmark and hands it over in shopping bags. He even runs me a tab.
 
 I was going to restart my [Sousaphone](http://tupiwire.wordpress.com) with the subtitle »Confessions of  Paraguayan Marlboro Man». 
 
@@ -70,13 +74,7 @@ But I built it with [Yellow](https://datenstrom.se/yellow/) and `php yellow.php 
 
 #### Adding Art
 
-This would make a good [Hyde](http://themes.gohugo.io/hyde) sidebar.
-
-![Goya was bats at the end of his life](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Francisco_Jos%C3%A9_de_Goya_y_Lucientes_-_The_sleep_of_reason_produces_monsters_%28No._43%29%2C_from_Los_Caprichos_-_Google_Art_Project.jpg/320px-Francisco_Jos%C3%A9_de_Goya_y_Lucientes_-_The_sleep_of_reason_produces_monsters_%28No._43%29%2C_from_Los_Caprichos_-_Google_Art_Project.jpg)
-
-Actually, the image must be landscape.  
-
-Bruegel the Elder's *Tower of Babel* works very well and is *a propos*. 
+Bruegel the Elder's *Tower of Babel* works very well as a background image and is *a propos*. 
 
 This post written with [gedit](https://en.wikipedia.org/wiki/Gedit) rather than, say, [remarkable](https://remarkableapp.github.io/). 
 
