@@ -2,7 +2,7 @@
 layout: post
 title: Outputs of the Infernal Machine
 author:  Colin Brayton
-tags: [jekyll, hugo, hexo, publishing, deployment, design, css, blogging, netlify, themes, yeoman, generators, markup, deleuze, guattari, lygia fagundes telles, literature, schizophrenia, capitalism, reading, english, Web develoment, self-taught, Arch Linux]
+tags: [jekyll, hugo, hexo, publishing, open source, deployment, development, sambodia, capitalism, stylesheets, Arch Linux]
 ---
 
 ![A scenic Sambodian bridge in Brooklin with an I](https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/saopaulosky.png)
