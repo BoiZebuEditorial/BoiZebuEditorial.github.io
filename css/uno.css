@@ -1044,7 +1044,7 @@ pre {
 .time,
 .author,
 .tags {
-	font-size: .8em;
+	font-size: 1.2em;
 	color: #c7c7c7; }
 	.date a,
 	.time a,
@@ -1110,7 +1110,7 @@ pre {
 	display: block;
 	padding: 2em 0 0 0;
 	border-top: 2px solid #dddddd;
-	font-size: .7em;
+	font-size: 1em;
 	color: #b3b3b3; }
 
 .footer__copyright {
@@ -1120,7 +1120,7 @@ pre {
 		color: #a6a6a6;
 		text-decoration: underline; }
 		.footer__copyright a:hover {
-			color: #b9301c; }
+			color: #8b0000; }
 
 .avatar,
 .logo {
@@ -1476,7 +1476,7 @@ input[type="time"],
 input[type="week"],
 input[type="number"],
 input[type="email"],
-input[type="url"],
+input[type="url"],date
 input[type="search"],
 input[type="tel"] {
 	width: 240px;

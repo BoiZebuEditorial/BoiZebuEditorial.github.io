@@ -68,14 +68,18 @@ The Eight brand costs one-quarter to one-third of what domestic brands do and is
 
 Honestly, I could not smoke at all if it not for my Paraguayan Marlboro Man who meets me at that certain square by that certain landmark and hands it over in shopping bags. He even runs me a tab. Good guy.
 
-I was thinking of restarting my [Sousaphone](http://tupiwire.wordpress.com) blog with the subtitle »Confessions of  Paraguayan Marlboro Man». 
+I was thinking of restarting my [Sousaphone](http://tupiwire.wordpress.com) blog as a sttic site with the subtitle »Confessions of  Paraguayan Marlboro Man». 
 
-But I built it with [Yellow](https://datenstrom.se/yellow/) and `php yellow.php build site` does not work for me. Some other time.
+But I built the new version with [Yellow](https://datenstrom.se/yellow/) and `php yellow.php build site` does not work for me. Some other time. 
+
+
+One problem with a static blog? When your `_posts` folder overflows and you have to `grep`or `swish-e` your content to refer back to stuff you wrote about months or years ago. 
 
 #### Adding Art
 
 Bruegel the Elder's *Tower of Babel* works very well as a background image for this site and is *a propos*. 
 
-This post written with [gedit](https://en.wikipedia.org/wiki/Gedit) rather than, say, [remarkable](https://remarkableapp.github.io/). 
+This post written with [gedit](https://en.wikipedia.org/wiki/Gedit) rather than, say, [remarkable](https://remarkableapp.github.io/). Someday I will learn eMacs as I have been meaning to for years. 
 
-![At home with the GNOME](http://www.netupd8.com/w8img/256v80y.jpg)
+![Emacs is whack!](https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/emacsmarkdown.png)
+	
