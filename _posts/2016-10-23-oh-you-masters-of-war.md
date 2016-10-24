@@ -5,8 +5,7 @@ author: Colin Brayton
 tags: [bob dylan, music, culture, protest, social movements, pop, development, sambodia, stylesheets, jade, literature, hello world, infrastructure, utilities, internet service provider, ]
 ---
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/220px-Alfred_Nobel3.jpg
-![](https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/500pxdylannobelistasinglecolumn.png)
+	![](https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/500pxdylannobelistasinglecolumn.png)
 
 Veja magazine displays its ignorance once again when it writes that the Nobelization of Dylan is a triumph of pop over fine literature.
 
