@@ -25,6 +25,8 @@ tags:
 
 ---
 
+This blog template is fucked up, I think.
+
 
 ### Two Percent Bandwidth
 
@@ -38,9 +40,9 @@ We are filing a police report. Seriously.
 
 ### A Helen Keller of Sambodian Dogs
 
-Neuza and the dog squad from the local park swing into action again, armed with smartphone power and hypermodile selfie capabilities. 
+Neuza and the dog squad from the local park swing into action again, armed with smartphone power and hypermobile selfie capabilities. 
 
-They discovered a lost dog and immediately hauled it off to the veterinarian. Blanca apparently is willing to pay for such things, which I find extravagant. 
+They discovered a lost dog and immediately hauled it off to the veterinarian. This is what they do. This is their militancy. Blanca apparently is willing to pay for such things, which I find extravagant. 
 
 Diagnosis: The poor creature is senile -- canine Alzheimer's -- banguela -- toothless -- as well as lame & blind & deaf. 
 
@@ -48,7 +50,7 @@ And bald. And while housed in our smaller bathroom downstairs barked for twelve 
 
 At eighteen years of age, Fadinha -- Fairy -- is a canine character from the plays of Samuel Beckett. 
 
-The only thing she seemed to sense was tAccess to scontent.fcgh5-1.fna.fbcdn.net was deniedhe olfactory experience she had when I lit up a cigarette nearby. It seems her owner -- he lives right around the corner on the Natinguí although Fadinha was found by Sása on Delfina Street --smokes.
+The only thing she seemed to sense was the olfactory experience she had when I lit up a cigarette nearby. It seems her owner -- he lives right around the corner on the Natinguí although Fadinha was found by Sása on Delfina Street --smokes.
 
 Let me see if I grab the photography from Facebook, to the small screen version of which my wife the News has taken like a pato to água. 
 
