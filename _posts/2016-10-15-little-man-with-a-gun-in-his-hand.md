@@ -14,10 +14,10 @@ tags:
 - Brazil
 ---
 
->The highest love, a woman's touch
-Harmony, a strong mind, a strong body
-Beauty all the things he couldn't be,
-All the things he couldn't have.
+>The highest love, a woman's touch /
+Harmony, a strong mind, a strong body /
+Beauty all the things he couldn't be, /
+All the things he couldn't have. /
 Little man with a gun in his hand
 
 [The Minutemen](https://en.wikipedia.org/wiki/Minutemen_(band)). 
