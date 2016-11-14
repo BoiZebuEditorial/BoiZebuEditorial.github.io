@@ -7,7 +7,6 @@ tags: [bob dylan, music, culture, protest, social movements, pop, development, s
 
 ![](https://raw.githubusercontent.com/bretonio/bretonio.github.io/master/images/500pxdylannobelistasinglecolumn.png)
 
-
 The Sambodian moral panic rag Veja magazine displays its ignorance once again when it writes that the Nobelization of Dylan is a triumph of pop over fine literature.
 
 Dylan has never been pop. Not like Lady Gaga or Rod Stewart. I know. I recently checked and re-checked
