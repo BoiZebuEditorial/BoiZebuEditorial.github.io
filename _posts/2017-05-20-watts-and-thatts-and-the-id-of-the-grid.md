@@ -6,7 +6,12 @@ tags: [Bob Dylan, Flutterby, Eletropaulo, infrastructure,  front-end, boilerplat
 Bootflat, Light CSS, Uptown CSS, breakpoint, flex grid, flexing, Arch Linux, Linux Mint]
 ---
 
-<img src="https://github.com/bretonio/bretonio.github.io/blob/2410cc56b71009c638b8a40653876b0edfcc1d5f/images/100px.modulrhashstill.png?raw=true" style="width:300px;">
+
+My Gitlab-hosted English-language working notes on Web design is fubar and so I must abandon the principle that this here will be a dear diary on life in general.
+
+Truth be told I have very little of a life in general. A touch of OCD, perhaps.
+
+In any event. 
 
 Thoughts of Watts and the Id of the grid.
 
