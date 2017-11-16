@@ -5,10 +5,19 @@ tags: ["CSS", "JavaScript", "Bootstrap Material Design", "CE Material", "Daemoni
 draft: false
 ---
 
+### Heckling Jekyll
+
+It has come to my attention that when this blog is served it properly references its main stylesheet on the main page but loses track of it when you navigate to an inner page. 
+
+This problem does not show up on a local server. I am trying to grok [what these guys say about the fubar](https://stackoverflow.com/questions/33634520/jekyll-on-github-pages-not-rendering-css)
+
+Jekyll it seems to me is more trouble than it is worth. 
 
 ### Notes of a Paraguayan Pilgrim
 
-Marginal commentary on [recent screenshots](https://github.com/bretonio/bretonio.github.io/commits/master/images). They help me measure Parraguay progress. One year ago, boy did I suck.
+Marginal commentary on [recent screenshots](https://github.com/bretonio/bretonio.github.io/commits/master/images). They help me measure Paraguayan progress. 
+
+One year ago, boy did I truly suck at this.
 
 But now after much wracking of the brains &mdash; or &laquo;racking, tanto faz &raquo; moments of technical insight and front-end loveliness.
 Overcoming configuration glitches with [Bootstrap Material Design and dropping ts drawers](http://rosskevin.github.io/bootstrap-material-design/material-design/drawers/).
